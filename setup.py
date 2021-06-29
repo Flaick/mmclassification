@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
-
+import numpy as np
 
 def readme():
     with open('README.md', encoding='utf-8') as f:
